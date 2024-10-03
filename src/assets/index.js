@@ -21,14 +21,21 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
+import freelancer from "./company/freelancer.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import mastercard from "./company/mastercard.png";
+import pngwing from "./company/pngwing.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import Ai from "./Ai.png";
+import healthcare from "./healthcare.png";
+import socialsite from "./socialsite.png";
+import ecommerce from "./ecommerce.png";
+import horizon from "./horizon.png";
+import hotel from "./hotel.png";
+import pizza from "./pizza.png";
 
 export {
   logo,
@@ -52,11 +59,18 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
+  freelancer,
   shopify,
-  starbucks,
-  tesla,
+  mastercard,
+  pngwing,
   carrent,
   jobit,
   tripguide,
+  Ai,
+  healthcare,
+  socialsite,
+  ecommerce,
+  horizon,
+  hotel,
+  pizza,
 };
