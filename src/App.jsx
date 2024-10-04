@@ -24,9 +24,11 @@ const App = () => {
         </div>
         <About />
         <Experience />
-        <div className="relative bg-primary">
+        <div className="bg-primary">
           <Tech />
-          <Works />
+          <div className="bg-orange-600">
+            <Works />
+          </div>
           <Feedbacks />
           <div className="relative z-0">
             <Contact />
