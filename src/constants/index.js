@@ -208,69 +208,69 @@ const testimonials = [
 ];
 
 const projects = [
-  // {
-  //   name: "Car Rent",
-  //   description:
-  //     "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
-  //   tags: [
-  //     {
-  //       name: "react",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "mongodb",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "tailwind",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: carrent,
-  //   source_code_link: "https://github.com/abhicodyabhicody",
-  // },
-  // {
-  //   name: "Job IT",
-  //   description:
-  //     "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-  //   tags: [
-  //     {
-  //       name: "react",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "restapi",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "scss",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: jobit,
-  //   source_code_link: "https://github.com/abhicody",
-  // },
-  // {
-  //   name: "Trip Guide",
-  //   description:
-  //     "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-  //   tags: [
-  //     {
-  //       name: "nextjs",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "supabase",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "css",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: tripguide,
-  //   source_code_link: "https://github.com/abhicody",
-  // },
+  {
+    name: "Car Rent",
+    description:
+      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: carrent,
+    source_code_link: "https://github.com/abhicodyabhicody",
+  },
+  {
+    name: "Job IT",
+    description:
+      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "restapi",
+        color: "green-text-gradient",
+      },
+      {
+        name: "scss",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: jobit,
+    source_code_link: "https://github.com/abhicody",
+  },
+  {
+    name: "Trip Guide",
+    description:
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/abhicody",
+  },
   {
     name: "Imaginify AI",
     description:
@@ -296,56 +296,56 @@ const projects = [
     image: Ai,
     source_code_link: "https://github.com/abhicody",
   },
-  // {
-  //   name: "Healthcare",
-  //   description:
-  //     "A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications, all built using Next.js.",
-  //   tags: [
-  //     {
-  //       name: "nextjs",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "appwrite",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "css",
-  //       color: "pink-text-gradient",
-  //     },
-  //     {
-  //       name: "typescript",
-  //       color: "red-text-gradient",
-  //     },
-  //   ],
-  //   image: healthcare,
-  //   source_code_link: "https://github.com/abhicody",
-  // },
-  // {
-  //   name: "Threads clone(social-Media)",
-  //   description:
-  //     "A social media platform is an online service or application that allows users to create, share, and interact with content and other users. These platforms facilitate communication, content sharing, and networking among individuals and communities",
-  //   tags: [
-  //     {
-  //       name: "nextjs",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "MongoDB",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "css",
-  //       color: "pink-text-gradient",
-  //     },
-  //     {
-  //       name: "typescript",
-  //       color: "red-text-gradient",
-  //     },
-  //   ],
-  //   image: socialsite,
-  //   source_code_link: "https://github.com/abhicody",
-  // },
+  {
+    name: "Healthcare",
+    description:
+      "A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications, all built using Next.js.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "appwrite",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "red-text-gradient",
+      },
+    ],
+    image: healthcare,
+    source_code_link: "https://github.com/abhicody",
+  },
+  {
+    name: "Threads clone(social-Media)",
+    description:
+      "A social media platform is an online service or application that allows users to create, share, and interact with content and other users. These platforms facilitate communication, content sharing, and networking among individuals and communities",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "MongoDB",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "red-text-gradient",
+      },
+    ],
+    image: socialsite,
+    source_code_link: "https://github.com/abhicody",
+  },
   {
     name: "Ecommerce",
     description:
