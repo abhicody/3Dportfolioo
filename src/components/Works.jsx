@@ -35,7 +35,7 @@ const Works = () => {
         ))}
       </div>
 
-      <div className="mt-20 flex flex-wrap gap-7 ">
+      {/* <div className="mt-20 flex flex-wrap gap-7 ">
         {projects2.map((project, index) => (
           <ProjectCard key={`project-${index}`} index={index} {...project} />
         ))}
@@ -45,7 +45,7 @@ const Works = () => {
         {projects3.map((project, index) => (
           <ProjectCard key={`project-${index}`} index={index} {...project} />
         ))}
-      </div>
+      </div> */}
     </>
   );
 };

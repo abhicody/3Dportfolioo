@@ -271,6 +271,31 @@ const projects = [
     image: tripguide,
     source_code_link: "https://github.com/abhicody",
   },
+  {
+    name: "Imaginify AI",
+    description:
+      "Build an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. ",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Ai saas",
+        color: "red-text-gradient",
+      },
+    ],
+    image: Ai,
+    source_code_link: "https://github.com/abhicody",
+  },
 ];
 
 const projects2 = [
