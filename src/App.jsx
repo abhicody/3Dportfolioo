@@ -24,7 +24,7 @@ const App = () => {
         </div>
         <About />
         <Experience />
-        <div className="bg-primary">
+        <div className="relative bg-primary">
           <Tech />
           <Works />
           <Feedbacks />

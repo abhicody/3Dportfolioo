@@ -23,7 +23,7 @@ module.exports = {
         "hero-bg": "url('/src/assets/sunset.png')",
         "hero-digital": "url('/src/assets/digital.png')",
         "hero-palmtree": "url('/src/assets/palmtree.png')",
-        "hero-earth": "url('/src/assets/earth.jpg')",
+        "hero-earth": "url('/src/assets/earth.png')",
         // "hero-uni": "url('/src/assets/uni.jpg')",
       },
     },
