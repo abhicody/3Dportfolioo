@@ -271,160 +271,160 @@ const projects = [
     image: tripguide,
     source_code_link: "https://github.com/abhicody",
   },
-  {
-    name: "Imaginify AI",
-    description:
-      "Build an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. ",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Ai saas",
-        color: "red-text-gradient",
-      },
-    ],
-    image: Ai,
-    source_code_link: "https://github.com/abhicody",
-  },
-  {
-    name: "Healthcare",
-    description:
-      "A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications, all built using Next.js.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "appwrite",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "typescript",
-        color: "red-text-gradient",
-      },
-    ],
-    image: healthcare,
-    source_code_link: "https://github.com/abhicody",
-  },
-  {
-    name: "Threads clone(social-Media)",
-    description:
-      "A social media platform is an online service or application that allows users to create, share, and interact with content and other users. These platforms facilitate communication, content sharing, and networking among individuals and communities",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "MongoDB",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "typescript",
-        color: "red-text-gradient",
-      },
-    ],
-    image: socialsite,
-    source_code_link: "https://github.com/abhicody",
-  },
-  {
-    name: "Ecommerce",
-    description:
-      " An incredible e-commerce webshop with an admin dashboard and CMS using Next 14, Stripe, TypeScript, and Payload CMS.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "MongoDB",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "typescript",
-        color: "red-text-gradient",
-      },
-      {
-        name: "payloadCMS",
-        color: "yellow-text-gradient",
-      },
-    ],
-    image: ecommerce,
-    source_code_link: "https://github.com/abhicody",
-  },
-  {
-    name: "Banking",
-    description:
-      "Built with Next.js, Horizon is a financial SaaS platform that connects to multiple bank accounts, displays transactions in real-time, allows users to transfer money to other platform users, and manages their finances altogether.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "MongoDB",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "typescript",
-        color: "red-text-gradient",
-      },
-      {
-        name: "payloadCMS",
-        color: "yellow-text-gradient",
-      },
-    ],
-    image: horizon,
-    source_code_link: "https://github.com/abhicody",
-  },
-  {
-    name: "Pizza & Pasta",
-    description:
-      "A pizza website is designed to offer a seamless and appetizing experience for pizza lovers. It typically features a comprehensive menu showcasing various pizza options, including classic favorites and specialty pizzas, along with sides, desserts, and beverages. The website includes an easy-to-use online ordering system for delivery or takeaway, often with options to customize your pizza with different toppings, crusts, and sizes.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: pizza,
-    source_code_link: "https://github.com/abhicody",
-  },
+  // {
+  //   name: "Imaginify AI",
+  //   description:
+  //     "Build an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. ",
+  //   tags: [
+  //     {
+  //       name: "nextjs",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "supabase",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "css",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "Ai saas",
+  //       color: "red-text-gradient",
+  //     },
+  //   ],
+  //   image: Ai,
+  //   source_code_link: "https://github.com/abhicody",
+  // },
+  // {
+  //   name: "Healthcare",
+  //   description:
+  //     "A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications, all built using Next.js.",
+  //   tags: [
+  //     {
+  //       name: "nextjs",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "appwrite",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "css",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "typescript",
+  //       color: "red-text-gradient",
+  //     },
+  //   ],
+  //   image: healthcare,
+  //   source_code_link: "https://github.com/abhicody",
+  // },
+  // {
+  //   name: "Threads clone(social-Media)",
+  //   description:
+  //     "A social media platform is an online service or application that allows users to create, share, and interact with content and other users. These platforms facilitate communication, content sharing, and networking among individuals and communities",
+  //   tags: [
+  //     {
+  //       name: "nextjs",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "MongoDB",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "css",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "typescript",
+  //       color: "red-text-gradient",
+  //     },
+  //   ],
+  //   image: socialsite,
+  //   source_code_link: "https://github.com/abhicody",
+  // },
+  // {
+  //   name: "Ecommerce",
+  //   description:
+  //     " An incredible e-commerce webshop with an admin dashboard and CMS using Next 14, Stripe, TypeScript, and Payload CMS.",
+  //   tags: [
+  //     {
+  //       name: "nextjs",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "MongoDB",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "css",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "typescript",
+  //       color: "red-text-gradient",
+  //     },
+  //     {
+  //       name: "payloadCMS",
+  //       color: "yellow-text-gradient",
+  //     },
+  //   ],
+  //   image: ecommerce,
+  //   source_code_link: "https://github.com/abhicody",
+  // },
+  // {
+  //   name: "Banking",
+  //   description:
+  //     "Built with Next.js, Horizon is a financial SaaS platform that connects to multiple bank accounts, displays transactions in real-time, allows users to transfer money to other platform users, and manages their finances altogether.",
+  //   tags: [
+  //     {
+  //       name: "nextjs",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "MongoDB",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "css",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "typescript",
+  //       color: "red-text-gradient",
+  //     },
+  //     {
+  //       name: "payloadCMS",
+  //       color: "yellow-text-gradient",
+  //     },
+  //   ],
+  //   image: horizon,
+  //   source_code_link: "https://github.com/abhicody",
+  // },
+  // {
+  //   name: "Pizza & Pasta",
+  //   description:
+  //     "A pizza website is designed to offer a seamless and appetizing experience for pizza lovers. It typically features a comprehensive menu showcasing various pizza options, including classic favorites and specialty pizzas, along with sides, desserts, and beverages. The website includes an easy-to-use online ordering system for delivery or takeaway, often with options to customize your pizza with different toppings, crusts, and sizes.",
+  //   tags: [
+  //     {
+  //       name: "nextjs",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "Supabase",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "css",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: pizza,
+  //   source_code_link: "https://github.com/abhicody",
+  // },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
