@@ -27,6 +27,8 @@ const App = () => {
         <div className="bg-primary ">
           <Tech />
           <Works />
+          <Works />
+          {/* <Works /> */}
           <Feedbacks />
           <div className="relative z-0">
             <Contact />
