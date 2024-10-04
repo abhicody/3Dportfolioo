@@ -24,16 +24,14 @@ const App = () => {
         </div>
         <About />
         <Experience />
-        <div className="bg-primary">
-          <Tech />
-          <div className="bg-orange-900">
-            <Works />
-          </div>
-          <Feedbacks />
-          <div className="relative z-0">
-            <Contact />
-            <StarsCanvas />
-          </div>
+        {/* <div className="bg-primary"> */}
+        <Tech />
+        <Works />
+        <Feedbacks />
+        <div className="relative z-0">
+          <Contact />
+          <StarsCanvas />
+          {/* </div> */}
         </div>
       </div>
     </BrowserRouter>
