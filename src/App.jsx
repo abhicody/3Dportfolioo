@@ -11,7 +11,8 @@ import {
   Works,
   StarsCanvas,
 } from "./components";
-import Works2 from "./components/works2";
+import Works2 from "./components/Works2";
+import Works3 from "./components/Works3";
 
 const App = () => {
   return (
@@ -29,7 +30,8 @@ const App = () => {
           <Tech />
           <Works />
           <Works2 />
-          {/* <Works /> */}
+          <Works3 />
+
           <Feedbacks />
           <div className="relative z-0">
             <Contact />
