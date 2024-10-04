@@ -26,7 +26,7 @@ const App = () => {
         <Experience />
         <div className="bg-primary">
           <Tech />
-          <div className="bg-orange-600">
+          <div className="bg-orange-900">
             <Works />
           </div>
           <Feedbacks />

@@ -274,7 +274,9 @@ const projects = [
   {
     name: "Imaginify AI",
     description:
-      "Build an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. ",
+      "Build an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities.",
+    // description:
+    //   "Build an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. ",
     tags: [
       {
         name: "nextjs",
@@ -299,7 +301,9 @@ const projects = [
   {
     name: "Healthcare",
     description:
-      "A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications,using Next.js.",
+      "A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring",
+    // description:
+    //   "A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications,using Next.js.",
     tags: [
       {
         name: "nextjs",
@@ -324,7 +328,9 @@ const projects = [
   {
     name: "Threads clone",
     description:
-      "A social media platform is an online service or application that allows users to create,share,and interact with content and other users.These platforms facilitate communication, content sharing,and networking among individuals & communities",
+      "A social media platform is an online service or application that allows users to create,share,and interact with content and other users.These platforms facilitate ",
+    // description:
+    //   "A social media platform is an online service or application that allows users to create,share,and interact with content and other users.These platforms facilitate communication, content sharing,and networking among individuals & communities",
     tags: [
       {
         name: "nextjs",
