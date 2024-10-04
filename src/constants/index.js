@@ -271,6 +271,9 @@ const projects = [
     image: tripguide,
     source_code_link: "https://github.com/abhicody",
   },
+];
+
+const projects2 = [
   {
     name: "Imaginify AI",
     description:
@@ -346,6 +349,9 @@ const projects = [
     image: socialsite,
     source_code_link: "https://github.com/abhicody",
   },
+];
+
+const projects3 = [
   {
     name: "Ecommerce",
     description:
@@ -404,27 +410,35 @@ const projects = [
     image: horizon,
     source_code_link: "https://github.com/abhicody",
   },
-  // {
-  //   name: "Pizza & Pasta",
-  //   description:
-  //     "A pizza website is designed to offer a seamless and appetizing experience for pizza lovers. It typically features a comprehensive menu showcasing various pizza options, including classic favorites and specialty pizzas, along with sides, desserts, and beverages. The website includes an easy-to-use online ordering system for delivery or takeaway, often with options to customize your pizza with different toppings, crusts, and sizes.",
-  //   tags: [
-  //     {
-  //       name: "nextjs",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "Supabase",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "css",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: pizza,
-  //   source_code_link: "https://github.com/abhicody",
-  // },
+  {
+    name: "Pizza & Pasta",
+    description:
+      "A pizza website is designed to offer a seamless and appetizing experience for pizza lovers. It typically features a comprehensive menu showcasing various pizza options, including classic favorites and specialty pizzas, along with sides, desserts, and beverages. The website includes an easy-to-use online ordering system for delivery or takeaway, often with options to customize your pizza with different toppings, crusts, and sizes.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: pizza,
+    source_code_link: "https://github.com/abhicody",
+  },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export {
+  services,
+  technologies,
+  experiences,
+  testimonials,
+  projects,
+  projects2,
+  projects3,
+};
