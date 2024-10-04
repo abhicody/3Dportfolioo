@@ -29,13 +29,10 @@ const Works = () => {
         </motion.p>
       </div>
 
-      {/* <div className="mt-20 flex flex-wrap gap-7  "> */}
-      <div className="mt-5 flex flex-wrap gap-2.5">
-        <div className="flex-1 m-2.5 sm:w-full" style={{ flexBasis: "30%" }}>
-          {projects.map((project, index) => (
-            <ProjectCard key={`project-${index}`} index={index} {...project} />
-          ))}
-        </div>
+      <div className="mt-20 flex flex-wrap gap-7 ">
+        {projects.map((project, index) => (
+          <ProjectCard key={`project-${index}`} index={index} {...project} />
+        ))}
       </div>
     </>
   );
