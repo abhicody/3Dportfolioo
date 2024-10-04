@@ -11,6 +11,7 @@ import {
   Works,
   StarsCanvas,
 } from "./components";
+import Works2 from "./components/works2";
 
 const App = () => {
   return (
@@ -27,7 +28,7 @@ const App = () => {
         <div className="bg-primary ">
           <Tech />
           <Works />
-          <Works />
+          <Works2 />
           {/* <Works /> */}
           <Feedbacks />
           <div className="relative z-0">
