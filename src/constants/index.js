@@ -271,81 +271,81 @@ const projects = [
     image: tripguide,
     source_code_link: "https://github.com/abhicody",
   },
-  // {
-  //   name: "Imaginify AI",
-  //   description:
-  //     "Build an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. ",
-  //   tags: [
-  //     {
-  //       name: "nextjs",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "supabase",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "css",
-  //       color: "pink-text-gradient",
-  //     },
-  //     {
-  //       name: "Ai saas",
-  //       color: "red-text-gradient",
-  //     },
-  //   ],
-  //   image: Ai,
-  //   source_code_link: "https://github.com/abhicody",
-  // },
-  // {
-  //   name: "Healthcare",
-  //   description:
-  //     "A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications, all built using Next.js.",
-  //   tags: [
-  //     {
-  //       name: "nextjs",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "appwrite",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "css",
-  //       color: "pink-text-gradient",
-  //     },
-  //     {
-  //       name: "typescript",
-  //       color: "red-text-gradient",
-  //     },
-  //   ],
-  //   image: healthcare,
-  //   source_code_link: "https://github.com/abhicody",
-  // },
-  // {
-  //   name: "Threads clone(social-Media)",
-  //   description:
-  //     "A social media platform is an online service or application that allows users to create, share, and interact with content and other users. These platforms facilitate communication, content sharing, and networking among individuals and communities",
-  //   tags: [
-  //     {
-  //       name: "nextjs",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "MongoDB",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "css",
-  //       color: "pink-text-gradient",
-  //     },
-  //     {
-  //       name: "typescript",
-  //       color: "red-text-gradient",
-  //     },
-  //   ],
-  //   image: socialsite,
-  //   source_code_link: "https://github.com/abhicody",
-  // },
+  {
+    name: "Imaginify AI",
+    description:
+      "Build an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. ",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Ai saas",
+        color: "red-text-gradient",
+      },
+    ],
+    image: Ai,
+    source_code_link: "https://github.com/abhicody",
+  },
+  {
+    name: "Healthcare",
+    description:
+      "A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications,using Next.js.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "appwrite",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "red-text-gradient",
+      },
+    ],
+    image: healthcare,
+    source_code_link: "https://github.com/abhicody",
+  },
+  {
+    name: "Threads clone",
+    description:
+      "A social media platform is an online service or application that allows users to create,share,and interact with content and other users.These platforms facilitate communication, content sharing,and networking among individuals & communities",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "MongoDB",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "red-text-gradient",
+      },
+    ],
+    image: socialsite,
+    source_code_link: "https://github.com/abhicody",
+  },
   // {
   //   name: "Ecommerce",
   //   description:
