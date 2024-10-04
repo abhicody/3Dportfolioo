@@ -26,11 +26,13 @@ const App = () => {
         </div>
         <About />
         <Experience />
-        <div className="bg-primary ">
+        <div className="bg-primary  ">
           <Tech />
-          <Works />
-          <Works2 />
-          <Works3 />
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-y-2">
+            <Works />
+            <Works2 />
+            <Works3 />
+          </div>
 
           <Feedbacks />
           <div className="relative z-0">

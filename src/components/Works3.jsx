@@ -11,7 +11,7 @@ import { fadeIn } from "../utils/motion";
 const Works3 = () => {
   return (
     <>
-      <div className="mt-20 flex flex-wrap gap-7 ">
+      <div className="flex flex-wrap gap-7 ">
         {projects3.map((project, index) => (
           <ProjectCard key={`project-${index}`} index={index} {...project} />
         ))}
