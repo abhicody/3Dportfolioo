@@ -321,6 +321,31 @@ const projects = [
     image: healthcare,
     source_code_link: "https://github.com/abhicody",
   },
+  {
+    name: "Threads clone(social-Media)",
+    description:
+      "A social media platform is an online service or application that allows users to create, share, and interact with content and other users. These platforms facilitate communication, content sharing, and networking among individuals and communities",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "MongoDB",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "red-text-gradient",
+      },
+    ],
+    image: socialsite,
+    source_code_link: "https://github.com/abhicody",
+  },
 ];
 
 const projects2 = [
